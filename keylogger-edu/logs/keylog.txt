@@ -1,0 +1,15 @@
+
+--- Session started 2026-05-29 23:40:05 ---
+
+[23:40:05] [BDICKSON@kali: ~/keylogger-edu]
+
+ff
+[BACKSPACE][BACKSPACE]
+It 
+is working 
+fin
+e [BACKSPACE]
+. 
+[CTRL]c
+--- Session ended 2026-05-29 23:40:55 ---
+
